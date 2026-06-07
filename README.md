@@ -4,13 +4,13 @@ A classic Pong game built with vanilla HTML, CSS, and JavaScript. Play against a
 
 ## Features
 
-- 🎮 **Player vs Computer AI**: Challenge yourself against an intelligent computer opponent
-- 🖱️ **Dual Control Methods**: Control your paddle with your mouse position OR arrow keys (Up/Down)
-- ⚽ **Realistic Physics**: Ball bounces off walls and paddles with physics-based spin
-- 📊 **Live Scoreboard**: Real-time score tracking for both player and computer
-- ⏸️ **Pause/Resume**: Press SPACE to pause and resume the game anytime
-- 🎨 **Modern UI**: Neon green retro aesthetic with smooth animations
-- 📱 **Responsive Design**: Works seamlessly on desktop and mobile devices
+- **Player vs Computer AI**: Challenge yourself against an intelligent computer opponent
+- **Dual Control Methods**: Control your paddle with your mouse position OR arrow keys (Up/Down)
+- **Realistic Physics**: Ball bounces off walls and paddles with physics-based spin
+- **Live Scoreboard**: Real-time score tracking for both player and computer
+- **Pause/Resume**: Press SPACE to pause and resume the game anytime
+- **Modern UI**: Neon green retro aesthetic with smooth animations
+- **Responsive Design**: Works seamlessly on desktop and mobile devices
 
 ## How to Play
 
@@ -93,10 +93,10 @@ Works on all modern browsers that support:
 
 ## Tips for Playing
 
-- 🏓 **Aim for edges**: Hit the ball near the edges of your paddle for more extreme angles
-- ⏰ **Anticipate**: Watch where the ball is heading and position your paddle ahead of time
-- ⚡ **Speed up gameplay**: Each paddle hit can increase the ball's spin, making it faster
-- 🤖 **AI weakness**: The computer AI has a slight reaction delay - use this to your advantage!
+- **Aim for edges**: Hit the ball near the edges of your paddle for more extreme angles
+- **Anticipate**: Watch where the ball is heading and position your paddle ahead of time
+- **Speed up gameplay**: Each paddle hit can increase the ball's spin, making it faster
+- **AI weakness**: The computer AI has a slight reaction delay - use this to your advantage!
 
 ## Future Enhancements
 
@@ -119,4 +119,4 @@ Created by laitus5204
 
 ---
 
-**Enjoy the game!** 🎮
+**Enjoy the game!**
